@@ -1,2 +1,2 @@
-# DVDScreenSaver
-DVD Screensaver For Windows using Java Processing
+# Learn Python 3 The Hard Way
+A very simple introduction to the terrifyingly beautiful world of computers and code
